@@ -14,7 +14,7 @@ Companies that sell on Amazon can pay for review services. As a data anyalyst, w
 ### NON PAID
 ![non paid 5 star](https://user-images.githubusercontent.com/88689043/150623664-4c827d39-e3e0-4966-b2a3-c62664159242.PNG)
 
-#Summary
+# Summary
 ## 51% of people who were getting paid submitted a 5-star review, compared to 38% of the non paid users. This shows that there is probably a slight bias when people are getting paid for their reviews. Therefore, this would likely be a good investment for vendors selling products on amazon.
 ![percentage paid](https://user-images.githubusercontent.com/88689043/150623668-946a469b-52e7-41d3-91a3-bf41e9913cb2.PNG)
 ![percentage non paid](https://user-images.githubusercontent.com/88689043/150623670-c37c0600-14e0-4da2-9164-4be8d8d56c08.PNG)
